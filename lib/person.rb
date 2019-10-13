@@ -8,4 +8,4 @@ class Person
 
 end
 
-user_name = Person.new()
+user_name = Person.new(name: "Alex")
