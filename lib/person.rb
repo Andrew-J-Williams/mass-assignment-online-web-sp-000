@@ -8,7 +8,6 @@ class Person
 
 end
 
-user_name = Person.new(name: "Alex", hair_color: "Brown")
-user_name.name
-=> "Alex"
-=> nil
+#user_name = Person.new(name: "Alex", hair_color: "Brown")
+#user_name.name
+#=> "Alex"
