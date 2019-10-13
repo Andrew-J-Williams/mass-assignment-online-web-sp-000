@@ -7,3 +7,5 @@ class Person
   end
 
 end
+
+user_name = Person.new
